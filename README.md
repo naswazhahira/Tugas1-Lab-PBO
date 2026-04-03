@@ -1,4 +1,4 @@
 # Tugas1-Lab-PBO
 
-## Naswa Zhahira
-## 241401059
+Naswa Zhahira
+241401059
